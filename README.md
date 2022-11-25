@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Upadhyay</h1>
-<h3 align="center">A passionate Android/fullstack developer from India, with a knack of Competitive Coding</h3>
+<h3 align="center">A passionate Competitive Coder from India, with a knack of Web Devlopment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devupadhyayaa&label=Profile%20views&color=0e75b6&style=flat" alt="devupadhyayaa" /> </p>
 
