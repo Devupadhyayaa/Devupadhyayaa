@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++,DSA, Android Development**
 
-- 👯 I’m looking to collaborate on **Linux based distros and Open source softwarese**
+- 👯 I’m looking to collaborate on **Linux based distros and Open source softwares**
 
 - 📫 How to reach me **upadhyay12june@gmail.com**
 
